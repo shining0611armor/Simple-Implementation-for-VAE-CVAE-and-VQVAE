@@ -6,14 +6,13 @@ Please be patient this repo is not completed yet!!!
 
 
 
-
-![VAE generated image](https://github.com/shining0611armor/Implementation-of-a-Denoising-Diffusion-Probabilistic-Model-DDPM-/raw/main/images/screenshot017.png)
-
-
-![CVAE](https://github.com/shining0611armor/Implementation-of-a-Denoising-Diffusion-Probabilistic-Model-DDPM-/raw/main/images/screenshot017.png)
+![VAE generated image](https://github.com/shining0611armor/Simple-Implementation-for-VAE-CVAE-and-VQVAE/tree/main/images/screenshot030.png)
 
 
-![reconstruction with VQVAE](https://github.com/shining0611armor/Implementation-of-a-Denoising-Diffusion-Probabilistic-Model-DDPM-/raw/main/images/screenshot017.png)
+![CVAE](https://github.com/shining0611armor/Simple-Implementation-for-VAE-CVAE-and-VQVAE/tree/main/images/screenshot066.png)
+
+
+![reconstruction with VQVAE](https://github.com/shining0611armor/Simple-Implementation-for-VAE-CVAE-and-VQVAE/tree/main/images/screenshot094.png)
 
 
 # A simple Implementing of Denoising Diffusion Probabilistic Model (DDPM)
