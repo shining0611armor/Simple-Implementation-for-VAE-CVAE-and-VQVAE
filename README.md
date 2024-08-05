@@ -3,7 +3,7 @@ Exploring the Variational Autoencoder (VAE) family
 
 Please be patient this repo is not completed yet!!!
 
-
+ 
 in this repo we provide a minimal implementation for VAE family including VAE, CVAE and VQVAE. this implementations are applied on both Anime-Face and Carton-Face datasets. Lets gets started this jurney from zero to hero!
  
 VAE
