@@ -9,7 +9,7 @@ VAE
 
 ![VAE generated image](https://github.com/shining0611armor/Simple-Implementation-for-VAE-CVAE-and-VQVAE/raw/main/images/screenshot030.png)
 
-![screenshot041](https://github.com/user-attachments/assets/5e6e2386-ed1a-43a1-a1a3-99f32f6c3b7b)
+<img src="https://github.com/user-attachments/assets/5e6e2386-ed1a-43a1-a1a3-99f32f6c3b7b" width="400" />
 
 CVAE
 
