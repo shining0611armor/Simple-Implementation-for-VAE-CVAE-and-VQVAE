@@ -10,7 +10,7 @@ In this repository, we provide a minimal implementation of the VAE family, inclu
 The **Variational Autoencoder (VAE)** is a generative model that learns a probabilistic mapping from a data space to a latent space. Below is an example of an image generated using VAE:
 
 ![VAE generated image](https://github.com/shining0611armor/Simple-Implementation-for-VAE-CVAE-and-VQVAE/raw/main/images/screenshot030.png)
-<img src="https://github.com/user-attachments/assets/5e6e2386-ed1a-43a1-a1a3-99f32f6c3b7b" width="500" />
+![VAE generated image](https://github.com/shining0611armor/Simple-Implementation-for-VAE-CVAE-and-VQVAE/raw/main/images/screenshot038.png)
 ### 🔸 CVAE
 The **Conditional Variational Autoencoder (CVAE)** extends VAE by conditioning the generative process on additional information. Here’s an example:
 
