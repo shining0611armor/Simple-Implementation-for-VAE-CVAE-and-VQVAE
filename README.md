@@ -1,7 +1,7 @@
 # 🚀 Simple Implementation for VAE, CVAE, and VQVAE
 
 **Exploring the Variational Autoencoder (VAE) family**
-
+ 
 In this repository, we provide a minimal implementation of the VAE family, including **VAE**, **CVAE**, and **VQVAE**. These implementations are applied to both Anime-Face and Cartoon-Face datasets. Let's embark on this journey from zero to hero! 🌟
 
 ## 📂 Implementations
